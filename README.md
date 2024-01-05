@@ -2,3 +2,4 @@
 
 hey all, scott here!
 i'm mainly just hosting borderline clickbait & other random garbage on here, feel free to ignore ig
+(most of my projects aren't currently open source, sorry :/)
