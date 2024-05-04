@@ -1,5 +1,2 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=i+farted+lol)](https://git.io/typing-svg)
-
-hey all, scott here!
-i'm mainly just hosting borderline clickbait & other random garbage on here, feel free to ignore ig
-(most of my projects aren't currently open source, sorry :/)
+Most stuff here is either for using Github as a bootleg CDN, but i still have some open source projects.
+I'd open-source a lot more things if there weren't such a small repo size, as a lot of my projects are way larger than what github usually accepts, even with git-lfs.
