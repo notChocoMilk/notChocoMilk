@@ -1,4 +1,4 @@
-Multi-platform software developer for PC & NX.  
+Multi-platform software developer for PC & Nintendo Switch.  
 ----------------------------  
 Current projects:  
 - Project Tasogare (updated sandboxLabs engine)  
@@ -10,9 +10,10 @@ Owner of:
 - ChocoGames  
 ----------------------------  
 Social links:  
-- https://bsky.app/profile/chocogames.org
-- https://www.youtube.com/@saturnalmania
-- https://www.youtube.com/@notchocomilk
+- https://bsky.app/profile/chocogames.org  
+- https://www.youtube.com/@saturnalmania  
+- https://www.youtube.com/@notchocomilk  
+- https://wetdry.world/@saturnalmania  
 - https://x.com/saturnalmania  
 - https://mastodon.social/@saturnalorbit  
 - https://mas.to/@saturnal  
