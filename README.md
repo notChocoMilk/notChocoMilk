@@ -12,7 +12,6 @@ Owner of:
 Social links:  
 - https://bsky.app/profile/chocogames.org  
 - https://www.youtube.com/@saturnalmania  
-- https://www.youtube.com/@notchocomilk  
 - https://wetdry.world/@saturnalmania  
 - https://x.com/saturnalmania  
 - https://mastodon.social/@saturnalorbit  
