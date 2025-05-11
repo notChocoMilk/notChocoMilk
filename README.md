@@ -1,10 +1,9 @@
 Multi-platform software developer for PC & Nintendo Switch.  
 ----------------------------  
 Current projects:  
-- Project Tasogare (updated sandboxLabs engine)  
-- Untitled sandboxLabs game using updated engine  
 - Wega's Challenge 2 Deluxe  
-- Super Mario Smell My Finger! V3  
+- Super Mario Smell My Finger! V3
+- Misc...
 ----------------------------  
 Owner of:  
 - ChocoGames  
