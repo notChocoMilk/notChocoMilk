@@ -1,4 +1,4 @@
-Multi-platform software developer for PC & Nintendo Switch.  
+Multi-platform software developer for Linux, Windows, & Nintendo Switch.  
 ----------------------------  
 Current projects:  
 - Wega's Challenge 2 Deluxe
